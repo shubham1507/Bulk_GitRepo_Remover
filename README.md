@@ -1,0 +1,3 @@
+export OAUTH_CLIENT_SECRET
+
+echo $OAUTH_CLIENT_ID
